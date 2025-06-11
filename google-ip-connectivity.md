@@ -102,7 +102,7 @@ Authoritative Server	Gives the final IP address
 
 
 
-#### 4. IP address found:
+## 4. IP address found:
 Once the IP address is found, it is returned to your local DNS server and cached. Your local DNS server then sends the IP address back to your computer. 
 
 - Authoritative DNS Server replies
@@ -132,7 +132,7 @@ The protocol used is usually UDP, unless the response is too large (then TCP is 
 
 The browser now knows exactly which IP address to connect to
 
-#### 5. Connection established:
+## 5. Connection established:
 The browser uses the IP address to connect to the website establishing a Connection (After DNS Resolution)
 
 ###### Step 1: Browser Gets IP Address
