@@ -157,13 +157,11 @@ ACK – The computer replies with "ACK", completing the connection.
 - Now the TCP connection is established.
 
 ###### Step 3: TLS Handshake (if HTTPS)
-If the user is visiting a secure site like https://www.google.com:
+Browser initiates a TLS handshake.
 
-Browser starts TLS (SSL) handshake:
+Encryption keys are exchanged securely.
 
-Exchanges encryption keys
-
-Verifies server identity (certificate)
+Server identity is verified using its digital certificate.
 
  ###### 4. Browser Sends the Web Request
 The browser sends a request to the server asking for the homepage.
