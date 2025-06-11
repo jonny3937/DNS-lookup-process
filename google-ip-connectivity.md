@@ -150,14 +150,14 @@ The browser uses this IP to establish a TCP connection with the server:
 
 SYN – The computer sends a "synchronization" packet to the server asking to start a connection.
 
-SYN-ACK – The server responds with "SYN-ACK" to accept the connection.
+SYN-ACK – The server responds with "SYN-ACK (asynchronization acknowledge)" to accept the connection.
 
 ACK – The computer replies with "ACK", completing the connection.
 
 - Now the TCP connection is established.
 
 ###### Step 3: TLS Handshake (if HTTPS)
-Browser initiates a TLS handshake.
+Browser initiates a TLS (transport layer security) handshake.
 
 Encryption keys are exchanged securely.
 
