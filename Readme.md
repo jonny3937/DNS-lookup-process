@@ -1,4 +1,4 @@
-# The activity that takes place after pressing **google.com**.
+# The activity that takes place after typing **google.com** then Enter button.
 
 This activity goes through a process known an **DNS**(Domain Name System)
 DNS- is the process of translating a website domain <mark>eg,. google.com</mark> into an ip address like (142.231.7.100),its like a phone book for the internet, connecting human-friendly names to numerical addresses.
